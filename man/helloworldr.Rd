@@ -1,7 +1,7 @@
 % File R/helloworld.Rd
-\name{helloworld}
-\alias{helloworld}
-\title{Hello world}
+\name{helloworldr}
+\alias{helloworldr}
+\title{Hello worldr}
 \description{
   A description of the hello world
 }
@@ -12,6 +12,5 @@ helloworld()
 \examples{
 
 ## print the text hello world
-helloworld("all.RData")
+helloworld()
 }
-\keyword{file}

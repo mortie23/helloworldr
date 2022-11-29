@@ -1,10 +1,10 @@
-Package: myfirstpackage
-Title: What the Package Does (One Line, Title Case)
+Package: helloworldr
+Title: Has a single function that prints hello world
 Version: 0.0.0.9000
 Authors@R: 
     person("Christopher", "Mortimer", , "christopher@mortimer.xyz", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Has a single function that prints hello world. Used as a demo R package to test things.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8

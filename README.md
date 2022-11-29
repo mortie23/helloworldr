@@ -1,3 +1,3 @@
-# Hello World package
+# Hello world R package
 
 Hello world
