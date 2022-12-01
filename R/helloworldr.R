@@ -1,10 +1,11 @@
 
 #' Hello World
 #'
-#' @return
 #' @export
 #'
 #' @examples
+#' helloworldr()
+#'
 helloworldr <- function(){
   print('hello world')
 }

@@ -16,3 +16,4 @@ copy_outcome <- file.copy(source_fullpath, target_fullpath, overwrite = T)
 system(glue("chmod 0770 {target_fullpath}"))
 tools::write_PACKAGES(package_path, latestOnly = F)
 unlink(source_fullpath)
+
