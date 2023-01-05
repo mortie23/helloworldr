@@ -541,6 +541,12 @@
         "askpass"
       ]
     },
+    "packrat": {
+      "Package": "packrat",
+      "Version": "0.8.1",
+      "Source": "Repository",
+      "Requirements": []
+    },
     "pillar": {
       "Package": "pillar",
       "Version": "1.8.1",
@@ -855,6 +861,12 @@
       "Source": "Repository",
       "Repository": "CRAN",
       "Hash": "1de7ab598047a87bba48434ba35d497d",
+      "Requirements": []
+    },
+    "rsconnect": {
+      "Package": "rsconnect",
+      "Version": "0.8.28",
+      "Source": "Repository",
       "Requirements": []
     },
     "rstudioapi": {
