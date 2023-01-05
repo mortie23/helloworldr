@@ -1,4 +1,4 @@
-url: ~
+url: http://192.168.110.129:3939/helloworld/
 template:
   bootstrap: 5
   bootswatch: cerulean
